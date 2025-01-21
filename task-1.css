@@ -84,6 +84,7 @@ section{
     width:60%;
     padding: 1%;
     height: auto;
+    border-radius: 50px;
 }
 .items .item-1 p , .items .item-2 p , .items .item-3 p , .items .item-4  p , .items .item-5 p , .items .item-6 p {
     margin-top: -3%;
@@ -94,10 +95,12 @@ section{
 }  */
 .about {
     background-color:burlywood;
+    margin: 0%;
 }
 .about .container {
     text-align: center;
     padding: 1%;
+    margin: 0%;
 }
 .about h2{
     font-size: 50px;
@@ -144,6 +147,7 @@ section{
 .contact ul {
     list-style: none;
     padding: 3%;
+    margin: 0%;
 }
 
 .contact ul li {
